@@ -18,8 +18,10 @@ Hi, I'm Ramesh Reddy , a SAP ABAP Developer with 1 year of experience in SAP S/4
 - DDIC{SE11}- Tables,Views,Structure,Search help,Lock object
 - Smart Forms
 - SAP Scripts
+- Module pool Programming
 - BDC 
-- BAPI
+- BAPi
+- Badi
 - RFC
 - IDoc
 - OData
