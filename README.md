@@ -1,6 +1,5 @@
 # SAP_ABAP_Portfolio
 SAP ABAP Portfolio containing resume, project documentation, certifications, and technical learning.
-# SAP ABAP Portfolio
 
 ## About Me
 
@@ -29,11 +28,7 @@ Hi, I'm Ramesh Reddy , a SAP ABAP Developer with 1 year of experience in SAP S/4
 ## Repository Contents
 
 - 📄 Resume
-- 💼 SAP ABAP Projects
-- 📜 Certifications
-- 📚 Interview Preparation
-- 🐍 Python Programs
-- 🗄️ SQL Practice
+- 📜 Certifications 
 
 ## Contact
 
